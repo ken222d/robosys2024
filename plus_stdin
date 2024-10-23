@@ -13,7 +13,4 @@ ans = 0
 for line in sys.stdin:
    ans += tonum(line)
 
-for line in sys.stdin:
-    line = line.rstrip()
-
 print(ans)
