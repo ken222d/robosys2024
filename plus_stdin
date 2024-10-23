@@ -11,7 +11,11 @@ def tonum(s):
 
 ans = 0
 for line in sys.stdin:
+<<<<<<< HEAD
     line = line.rstrip()
     ans += tonum(line)
+=======
+   ans += tonum(line)
+>>>>>>> 677e15ca16b5bb1f7906dc5d0aadf2dff782968b
 
 print(ans)
