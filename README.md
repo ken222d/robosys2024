@@ -3,7 +3,7 @@
 
 # plusコマンド
 ![test](https://github.com/ken222d/robosys2022/actions/workflows/test.yml/badge.svg)
-
+![](https://img.shields.io/github/license/ken222d/robosys2024)
 標準入力から読み込んだ数字を足す。
 
 ## 使い方
