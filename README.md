@@ -2,11 +2,20 @@
 ロボットシステム学の練習リポジトリ
 
 # plusコマンド
-![test](https://github.com/kentaishizeki/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/ken222d/robosys2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
-（ここに前ページの項目をいろいろ書く）
+## 使い方
+
+
+```bash
+$ git clone https://github.com/ken222d/robosys2024
+$ cd robosys2024
+$ ./plus 1 2 3 4　　　　　　　　　　　　　　　　　　　#実行
+10                                                    #結果
+```
+
 
 ## 必要なソフトウェア
 - Python
@@ -15,4 +24,7 @@
 ## テスト環境
 - Ubuntu 22.04.5 LTS
 
-© 2024 Kenta Ishizeki
+
+## ライセンスと著作権
+- このソフトウェアパッケージは, 3条項BSDライセンスの下, 再頒布および使用が許可されます. 
+- © 2024 Kenta Ishizeki
